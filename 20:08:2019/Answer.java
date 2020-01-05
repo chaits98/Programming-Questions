@@ -1,6 +1,6 @@
-import java.lang.*; 
-import java.io.*; 
-import java.util.*; 
+import java.lang.*;
+import java.io.*;
+import java.util.*;
 
 class Result {
     private int result, start;
@@ -17,7 +17,6 @@ class Result {
     public int getStart() {
         return this.start;
     }
-
 }
 
 public class Answer {
@@ -52,5 +51,6 @@ public class Answer {
         Result res = lengthOfLongestSubstring(inputString);
         System.out.println("Length of longest substring without repeating characters is " + (res.getResult()));
         System.out.println("The substring is: \"" + (inputString.substring(res.getStart(), res.getResult() + res.getStart())) + "\"");
+        sc.close();
     }
 }
