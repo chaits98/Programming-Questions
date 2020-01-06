@@ -1,7 +1,15 @@
-#Daily Programming Questions
+# Daily Programming Questions
 
 Read the question from `Question.txt` for each subfolder.
 Every program is implemented in Java and Python.
+
+## Java Version Used
+Java version "1.8.0_201"
+Java(TM) SE Runtime Environment (build 1.8.0_201-b09)
+Java HotSpot(TM) 64-Bit Server VM (build 25.201-b09, mixed mode)
+
+## Python Version Used
+Python 3.7.4
 
 1. [Addition of numbers as a singly list](19:08:2019)
 -    [x] Java
