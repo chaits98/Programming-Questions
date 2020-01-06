@@ -11,6 +11,19 @@ Java HotSpot(TM) 64-Bit Server VM (build 25.201-b09, mixed mode)
 ## Python Version Used
 Python 3.7.4
 
+### Run Python file
+```
+cd [Folder Name]
+python3 Answer.py
+```
+
+### Run Java file
+```
+cd [Folder Name]
+javac Answer.java
+java Answer
+```
+
 1. [Addition of numbers as a singly list](19:08:2019)
 -    [x] Java
 -    [x] Python
